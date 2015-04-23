@@ -1,0 +1,40 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.map
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+nbproject
+thumbs.db
+
+# npm
+npm-debug.log
+node_modules
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# WebStorm
+.idea
+
+# gem/sass
+
+.bundle/
+Gemfile.lock
+gem/
+.sass-cache
+
+
+
